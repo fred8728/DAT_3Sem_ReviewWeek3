@@ -22,3 +22,13 @@ Note: Jeg har haft en del problemer med test-delen og derfor er det ikke muligt,
 
 Onsdags opgaverne omhandlede Javascript - ift. at få styr på basis. 
 Opgaverne kan findes under mappen wednesday, hvor der ligger to javascript filer: day_1.js og arrayEX.
+
+## Torsdagsopgaver:
+
+Torsdagsopgaverne har jeg haft en del problemer med - jeg har ikke formået at lave særligt mange af dem. 
+
+Derudover bemærk, at filerne ligger under public_html mappe under thurday. Derudover har jeg lavet alt javascript i visual studio code, og har derfor oprettet en ny html side ved snart af nyt opgave - jeg har derfor både javascript filer derinde og html.
+
+## Fredagsopgaven
+
+Jeg har som sagt haft problemer med torsdagsopgaverne og er derfor ikke kommet i gang med fredagsopgaven.
