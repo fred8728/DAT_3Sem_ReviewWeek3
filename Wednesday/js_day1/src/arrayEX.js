@@ -1,9 +1,3 @@
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
 // A. create the two arrays
 
 var boys = ["Peter", "lars", "Ole"];
@@ -54,4 +48,9 @@ console.log(all.map(function(toUpper){return toUpper.toUpperCase()})); //put a f
 
 
 // M. Create new array containing all the names that start with either I or L
-
+function specificLetter(letter){
+    if(letter.charAt(0) ==="I" || letter.charAt(0) ==="L"){
+        return letter;
+    }
+}
+console.log(all.filter(specificLetter));
